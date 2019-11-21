@@ -3,6 +3,7 @@ This module contains agents that play reversi.
 
 Version 3.1
 """
+# Dujnapa T. 6088105
 
 import abc
 import random
